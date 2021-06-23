@@ -4,7 +4,7 @@
 // Email: dchir002@ucr.edu
 // SID: 862126186
 // Write up link: https://docs.google.com/document/d/1hoYBFxIa2bQKEqs4gzS9oW4QF6aMt6a2zknu5hKQwMM/edit?usp=sharing
-// Demo Link: 
+// Demo Link: https://youtu.be/Izt8bb94mMw
 
 //schedualler
 typedef struct task {
